@@ -39,3 +39,4 @@ plt.ylabel("Number of People")
 plt.show()
 
 
+
