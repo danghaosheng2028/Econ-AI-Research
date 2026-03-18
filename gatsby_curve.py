@@ -59,4 +59,4 @@ def generate_gatsby_curve():
     plt.close()
 
 if __name__ == "__main__":
-    generate_gatsby_curve()
+    generate_git commit -m "Initialize Econ-AI-Research\gatsby_curve.py“       ()
